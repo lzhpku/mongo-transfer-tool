@@ -1,0 +1,21 @@
+rmt:
+  fromdb:
+    host:
+    port:
+    database:
+    username:
+    password:
+  todb:
+    host:
+    port:
+    database:
+    username:
+    password:
+  collections:
+  oneByOne: false
+  batchCount: 1000
+
+logging:
+  path: logs
+  level: info
+
